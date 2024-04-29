@@ -1,0 +1,1 @@
+La experiencia hacerca el primer parcitco de la asignatura fue mjy buena, aprendimos los comandos para poder utilizar gitbush y tambien como pasarlo a github sincronizando el repo local y remoto.
